@@ -1,0 +1,42 @@
+body{
+        background-image: url(https://img.freepik.com/free-vector/white-background-with-triangle-patterns_1017-18410.jpg?w=2000) ;
+}
+h1 { background-color: lightblue;
+    font-family: 'Indie Flower',sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    width 100%
+    margin-top: 0;
+    padding-top:0;
+    opacity:0.85;
+    }
+h2{
+    font-size: 35px;
+    font-family: 'Indie Flower',sans-serif;
+    text-align: center;
+
+}
+table{
+    font-family: 'IBM Plex Mono',monospace;
+    border-collapse:initial ;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 2%;
+    opacity: 0.85;
+}
+thead{
+    background-color: lightgrey;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    border: 3px solid black;
+   }
+tr{
+    padding:5px;
+    border: 3px solid black;
+}
+.first{
+    font-weight: bold;
+      color: gray;
+}
